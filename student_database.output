@@ -1,0 +1,2 @@
+?- find_student(101,N,C).
+[anu,computer_science]

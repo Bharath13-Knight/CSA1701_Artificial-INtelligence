@@ -1,0 +1,2 @@
+?- count_vowels([h,e,l,l,o],N).
+2

@@ -1,0 +1,2 @@
+?- grandparent(ann,cal).
+true.

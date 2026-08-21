@@ -1,0 +1,2 @@
+?- fibonacci(6,F).
+8

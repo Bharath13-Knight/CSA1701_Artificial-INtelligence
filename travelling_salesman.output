@@ -1,0 +1,5 @@
+Enter number of cities: 3
+0 10 15
+10 0 20
+15 20 0
+Minimum cost: 45 Tour: (0, 1, 2)

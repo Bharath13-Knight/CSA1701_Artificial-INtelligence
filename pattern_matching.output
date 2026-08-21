@@ -1,0 +1,2 @@
+?- match([a,b],[x,a,b,y]).
+true

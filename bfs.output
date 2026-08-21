@@ -1,0 +1,2 @@
+Enter start node: A
+BFS: ['A', 'B', 'C', 'D', 'E']
